@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5 {
   height: 1000px;
   width: 920px;
 }
+
 nav {
   display: inline-block; 
   margin: 0px 20px;
@@ -135,17 +136,21 @@ li {
 
 .middle-img {
   display: block;
-  margin-left: 40px;
-  width: 100%;
+  margin-left: 35px;
+  width: 97%;
 }
 
 .bottom {
-  width: 100%
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 .bottom ul{
   display: inline-block;
-  width: 33%
+  width: 30%;
+  margin-top: 25px;
+  margin-left: 25px;
+  padding-left: 15px;
 }
 
 footer {
@@ -167,3 +172,6 @@ address {
   margin-left: 40px;
 }
 
+hr {
+  margin-left: 35px;
+}
