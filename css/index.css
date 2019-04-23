@@ -105,7 +105,8 @@ nav a {
 .top-section > button {
   font-size: 15px;
   padding: 5px 45px;
-  border: 1px solid gray; 
+  border: 2px solid gray; 
+  background-color: white;
 }
 
 .world {
